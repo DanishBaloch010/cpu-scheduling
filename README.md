@@ -1,5 +1,5 @@
 # cpu-scheduling
- CPU scheduling. FCFS, SJF, PS and R
+ CPU scheduling. FCFS, SJF, PS and RR
  
  ## the project folder contains a detailed report on this project. 
  
